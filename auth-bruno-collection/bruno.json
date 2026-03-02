@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "auth-bruno-collection",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
